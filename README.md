@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aamir Khan's github stats](https://github-readme-stats.vercel.app/api?username=aamirkhancr7&hide=["issues"]&show_icons=true)
+![Aamir Khan's github stats]
 
-<a href="https://github.com/aamirkhancr7">
+<a href="https://github.com/aamirkhancr7/aamirkhancr7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aamirkhancr7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/aamirkhancr7/aamirkhancr7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirkhancr7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
